@@ -1,4 +1,4 @@
-<p align="center"> <a href="" alt="" /></a> </p>
+<p align="center"> <a href="./LogoTemporal.png" alt="" /></a> </p>
 
 <h1 align="center">About us</h1>
 
