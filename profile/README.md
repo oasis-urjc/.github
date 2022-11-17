@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/oasis-urjc/.github/blob/main/profile/LOGO OASIS@4x.png" target="blank"><img src="https://github.com/oasis-urjc/.github/blob/main/profile/LogoTemporal.png" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/oasis-urjc/.github/blob/main/profile/LOGO OASIS@4x.png" target="blank"><img src="https://github.com/oasis-urjc/.github/blob/main/profile/LOGO OASIS@4x.png" alt="" /></a> </p>
 
 <h1 align="center">About us</h1>
 
